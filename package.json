@@ -1,0 +1,16 @@
+{
+  "name": "pokemon",
+  "version": "1.0.0",
+  "description": "Lista de pokemon",
+  "main": "index.js",
+  "scripts": {
+    "start": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Garman",
+  "license": "ISC",
+  "dependencies": {
+    "modules": "^0.4.0",
+    "node": "^21.1.0"
+  }
+}
