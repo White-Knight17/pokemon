@@ -14,3 +14,29 @@ h1 {
 h2 {
   color: firebrick;
 }
+
+nav {
+  ul {
+    list-style: none;
+  }
+  li {
+    display: inline-block;
+  }
+  .btn {
+    margin-left: 3px;
+    padding: 3px;
+  }
+}
+
+main {
+  #ocultar {
+    color: #fff;
+    background: grey;
+    border: 2px solid transparent;
+  }
+  #mostrar {
+    color: #fff;
+    background: red;
+    border: 2px solid transparent;
+  }
+}

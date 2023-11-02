@@ -10,4 +10,30 @@ h1 {
   color: red;
 }
 
+h2 {
+  color: firebrick;
+}
+
+nav ul {
+  list-style: none;
+}
+nav li {
+  display: inline-block;
+}
+nav .btn {
+  margin-left: 3px;
+  padding: 3px;
+}
+
+main #ocultar {
+  color: #fff;
+  background: grey;
+  border: 2px solid transparent;
+}
+main #mostrar {
+  color: #fff;
+  background: red;
+  border: 2px solid transparent;
+}
+
 /*# sourceMappingURL=style.css.map */
